@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="Watch People Build">
+        <Require feature="rpc"/>
+        <Require feature="views"/>
+    </ModulePrefs>
+    <Content type="html">
+        <![CDATA[
+            <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
+            <script src="main.js"></script>
+        ]]>
+    </Content>
+</Module>
